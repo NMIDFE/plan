@@ -69,8 +69,8 @@
 + 4 推荐书籍
     + 《CSS权威指南》
 + 5 练习
-    + 基于上一次HTML的任务代码基础上增加CSS样式代码的编写，参考 [示例](http://7xrp04.com1.z0.glb.clouddn.com/task_1_2_1.jpg)（点击查看）
-    + 运用定位、布局等相关知识进一步完成示例。[示例](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)（点击查看）
+    + [示例1](/images/第二周.png)（点击查看）
+    + [示例2](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)（点击查看）
 
 
 ## 第四周
@@ -87,7 +87,7 @@
 + 4 推荐书籍
     + 《CSS权威指南》
 + 5 练习
-    + [PSD下载](http://7xrp04.com1.z0.glb.clouddn.com/task_1_7_1.psd)
+    + [PSD下载](/images/素材.psd)
 
 
 
