@@ -1,4 +1,4 @@
-﻿# 2018NMID 服务器平台 前端开发培训计划
+# 2018NMID 服务器平台 前端开发培训计划
 ## 说明
 此培养计划周期为50-70天，下面为一些学习建议！
 
@@ -42,7 +42,7 @@
 + 2 主要内容
     + 标题 段落 图片 链接 列表 表格 表单等
 + 3 参考资料
-    + [W3School](http://www.w3school.com.cn/css/css_intro.asp)
+    + [W3School](http://www.w3school.com.cn/html/index.asp)
 + 4 推荐书籍
     + 《Head First HTML》
 + 5 练习
@@ -63,7 +63,7 @@
     + CSS定位
     + 常见布局方式
 + 3 参考资料
-    + [W3School](http://www.w3school.com.cn/css/css_intro.asp)
+    + [W3School](http://www.w3school.com.cn/css/index.asp)
     + [王福朋 - 博客园 CSS知多少](http://www.cnblogs.com/wangfupeng1988/p/4276321.html)
     + [学习CSS布局](http://zh.learnlayout.com/display.html)
 + 4 推荐书籍
