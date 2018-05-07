@@ -69,7 +69,7 @@
 + 4 推荐书籍
     + 《CSS权威指南》
 + 5 练习
-    + [示例1](/images/第二周.png)（点击查看）
+    + [示例1](/images/第三周.png)（点击查看）
     + [示例2](http://7xrp04.com1.z0.glb.clouddn.com/task_1_5_1.jpg)（点击查看）
 
 
